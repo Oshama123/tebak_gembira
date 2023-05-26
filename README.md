@@ -1,16 +1,11 @@
 # tebak_gembira
 
-A new Flutter project.
+Ujian untuk Tengah Semester Insitut Teknologi Tangerang Selatan
 
-## Getting Started
+## UI/UX cek sini
 
-This project is a starting point for a Flutter application.
+https://www.figma.com/file/0Vb3KVvfj4ME85j1Gh7OJP/prj_game?type=design&node-id=0%3A1&t=03gcQsSMPT36T2sT-1
 
-A few resources to get you started if this is your first Flutter project:
+untuk tampilannya aja inih
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.figma.com/proto/0Vb3KVvfj4ME85j1Gh7OJP/prj_game?page-id=0%3A1&type=design&node-id=0-1&viewport=169%2C356%2C0.5&scaling=scale-down&starting-point-node-id=3%3A2
